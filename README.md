@@ -1,4 +1,4 @@
-# Godot 2D Tutorial Notes
+# Godot 2D Quick Reference Guide
 
 Based on [HeartBeast's Godot Action RPG Series](
 https://youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a)
